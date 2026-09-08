@@ -45,7 +45,7 @@ I specialize in building agentic systems and RAG pipelines that hold up under re
 ---
 
 ## 💬 Let's Connect  
-✉️ [kspandana028@gmail.com](mailto:kspandana028@gmail.com) • 🗺️ Florida, USA  
+✉️ [kspandana028@gmail.com](mailto:kspandana028@gmail.com) 
 
 ---
 
